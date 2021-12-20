@@ -1,0 +1,30 @@
+.section2{
+    margin: 50px 50px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    
+h4{
+    margin: 30px auto;
+    color: rgb(197, 196, 196);
+}
+h2{
+    margin: 0 auto;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 30px;
+}
+img{
+    width: auto;
+    height: 40vh;
+}
+p{
+    padding: 20px;
+    line-height: 30px;
+    margin: 0 50px;
+}
+button{
+    margin: 30px auto 60px;
+}
+}
